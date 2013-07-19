@@ -8,7 +8,7 @@ ConEmu configuration file with vim(ish) bindings where supported and solarized c
 - [Solarized](http://ethanschoonover.com/solarized) style color palette
 - Starts in [Powershell](http://msdn.microsoft.com/en-us/library/windows/desktop/dd835506)
 - Control-T: New Tab 
-- Control-\: Vertical Split 
+- Control-\\: Vertical Split 
 - Control--: Horizontal Split 
 - Control-H: Switch to previous console
 - Control-L: Switch to next console 
