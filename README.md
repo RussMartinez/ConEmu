@@ -5,8 +5,8 @@ Features
 --------
 ConEmu configuration file with vim(ish) bindings where supported and solarized color schema.
 
-- [http://ethanschoonover.com/solarized](Solarized) style color palette
-- Starts in [http://msdn.microsoft.com/en-us/library/windows/desktop/dd835506(v=vs.85).aspx](Powershell)
+- [Solarized](http://ethanschoonover.com/solarized) style color palette
+- Starts in [Powershell](http://msdn.microsoft.com/en-us/library/windows/desktop/dd835506(v=vs.85).aspx)
 - Control-T: New Tab 
 - Control-\: Vertical Split 
 - Control--: Horizontal Split 
